@@ -1,4 +1,4 @@
-import { Indicator } from './node_modules/rms-meter/dist/rms-meter.esm.js';
+import { Indicator } from 'rms-meter';
 
 const recordButton = document.querySelector('#record');
 const pauseButton = document.querySelector('#pause');

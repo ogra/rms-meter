@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.html",
   "scripts": {
@@ -12,6 +12,6 @@
   "private": true,
   "dependencies": {
     "http-server": "^14.1.1",
-    "rms-meter": "0.0.1"
+    "rms-meter": "^0.0.2"
   }
 }

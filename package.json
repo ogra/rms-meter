@@ -1,0 +1,25 @@
+{
+  "name": "rms-meter",
+  "version": "0.0.1",
+  "description": "RMS meter",
+  "main": "dist/rms-meter.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js --mode production"
+  },
+  "keywords": [
+    "Web",
+    "Audio",
+    "WebAudio",
+    "RMS",
+    "meter"
+  ],
+  "author": "Toshiyuki Ogura <tos.ogura@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "audio-worklet-loader": "^1.1.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}

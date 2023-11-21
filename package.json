@@ -1,6 +1,6 @@
 {
   "name": "rms-meter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "RMS meter",
   "main": "./dist/rms-meter.esm.js",
   "scripts": {

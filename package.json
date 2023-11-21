@@ -20,7 +20,6 @@
   ],
   "author": "Toshiyuki Ogura <tos.ogura@gmail.com>",
   "license": "MIT",
-  "private": true,
   "devDependencies": {
     "audio-worklet-loader": "^1.1.0",
     "webpack": "^5.89.0",
